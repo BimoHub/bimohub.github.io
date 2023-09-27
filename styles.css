@@ -1,0 +1,33 @@
+body 
+    {font-family: 'Times New Roman', Times, serif;
+    background-color: #000;}
+
+    h1 {color: #a92222;  letter-spacing: 100px; text-align: center;}
+    #intro {color: #eee8e8;  text-align: center; word-spacing:5cqmax;}
+
+    h2 {color: #eee8e8;  letter-spacing: 100px; text-align: center;}
+    h3 {color: #eee8e8;  letter-spacing: 100px; text-align: center;}
+    h4 {color: #eee8e8;  letter-spacing: 100px; text-align: center;}
+    h5 {color: #eee8e8;  letter-spacing: 100px; text-align: center;}
+    h6 {color: #eee8e8;  letter-spacing: 100px; text-align: center;}
+
+    nav {background-color:#000000;}
+    #menu {text-align: center;} /*Aligning navbar to centre*/
+    #menu li {display:inline-block;} /*making it horizontal*/
+    #menu li a {color: #a92222; padding: 0 30px; margin: 30px;}/*making navbar elements separate from each other*/
+
+    label {width: 50px; display:inline-block; /*Editing all elements in label*/
+         color: #a92222;
+         }
+         /*below 6 lines of code align form and button to mmiddle*/
+    form {
+        text-align: center;
+    }
+    button {
+        display: inline-block;
+    }
+
+    p {font-size: 16px;color: #a92222;}
+
+    ul {list-style-type: none; color: #a92222;}
+    
